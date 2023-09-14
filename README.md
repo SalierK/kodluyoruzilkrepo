@@ -18,7 +18,8 @@ Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bi
 - Repoyu bilgisayarımıza aldıktan sonra içine `README.md` adında bir Markdown dosya oluşturun.
 - Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
 
-![markdown](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![image](https://github.com/SalierK/kodluyoruzilkrepo/assets/121718589/e558f8a7-2811-428e-9b32-4e70ebf933cf)
+
 
 **Detaylı bakmak için [Örnek Readme Dosyası](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md)nı inceleyebilirsiniz.**
 
